@@ -1,5 +1,7 @@
 # datafix_nodes_template
 
+a template repo for [datafix](https://github.com/hannesdelbeke/datafix) nodes
+
 example repos that use this template
 - https://github.com/hannesdelbeke/datafix_maya
 - https://github.com/hannesdelbeke/datafix_blender
